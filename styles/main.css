@@ -112,13 +112,13 @@ aside a:focus, aside a:hover {
 
 /* media queries */
 
-@media (max-width: 380px) {
+@media (max-width: 400px) {
 
 	
-	article { width: 380px;}
+	article { width: 400px;}
 	
 	aside {margin: 0;
-			width: 380px;
+			width: 400px;
 			clear: both; }
 			
 	#sidebar2 { margin: 0;
